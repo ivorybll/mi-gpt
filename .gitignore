@@ -1,9 +1,6 @@
 node_modules
-
 .DS_Store
 .yarn
-.env
 .bot.json
 .mi.json
-
 *.db*
